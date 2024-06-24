@@ -12,3 +12,11 @@ font-weight: 500px;
 .link{
     cursor: pointer;
 }
+@media (max-width:768px) {
+    .f-container{
+        justify-content: center;
+    }
+    .f-container>div{
+        align-items: center;
+    }
+}

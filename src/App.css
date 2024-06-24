@@ -37,7 +37,7 @@
 }
 .App{
 position: relative;
-overflow-y: clip;
+overflow-x: clip;
 }
 .App>:nth-child(1){
   position: relative;
@@ -50,4 +50,5 @@ height: 300px;
 background: rgba(255,255,255,0.522);
 filter: blur(100px);
 border-radius:50% ;
+z-index: 2;
 }

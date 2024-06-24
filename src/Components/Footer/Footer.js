@@ -17,7 +17,7 @@ const Footer = () => {
             <span className="link">Property</span>
             <span className="link">Services</span>
             <span className="link">Products</span>
-            <span className="link">About Us</span>
+            <span >About Us</span>
           </div>
         </div>
       </div>

@@ -16,12 +16,12 @@ function App() {
     <Header/>
     <Hero/>
     </div>
-    <Companies/>
+     <Companies/>
     <Residencies/>
     <Value/>
     <Contact/>
     <GetStarted/>
-    <Footer/>
+    <Footer/> 
     </div>
     
   );
